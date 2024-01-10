@@ -50,10 +50,23 @@ This is a simple To-Do application designed to help users manage their tasks eff
 ## Screenshots
 
 ![Screenshot 1](/images/tasks%20overview.jpg)
-*Caption for Screenshot 1*
+*Tasks Overview*
 
-![Screenshot 2](/path/to/screenshot2.jpg)
-*Caption for Screenshot 2*
+![Screenshot 2](/images/adding%20a%20new%20task.jpg)
+*Adding new tasks*
+![Screenshot 3](/images/adding%20other%20tasks.jpg)
+*Adding other new tasks*
+![Screenshot 4](/images/delete%20confirmation.jpg)
+*Confirming to delete*
+![Screenshot 5](/images/deleting%20tasks.jpg)
+*Deleting tasks*
+![Screenshot 6](/images/editing%20tasks.jpg)
+*Editing tasks*
+![Screenshot 7](/images/start%20page.jpg)
+*Start page of to do list*
 
-... and so on.
+
+
+
+
 
