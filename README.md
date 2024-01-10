@@ -47,4 +47,13 @@ This is a simple To-Do application designed to help users manage their tasks eff
   Left Swipe task you want to remove.
 
 
+## Screenshots
+
+![Screenshot 1](/images/tasks%20overview.jpg)
+*Caption for Screenshot 1*
+
+![Screenshot 2](/path/to/screenshot2.jpg)
+*Caption for Screenshot 2*
+
+... and so on.
 
