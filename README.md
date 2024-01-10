@@ -11,26 +11,6 @@ This is a simple To-Do application designed to help users manage their tasks eff
 - **Complete Tasks:** Mark tasks as completed to keep track of your progress.
 - **Delete Tasks:** Remove tasks that are no longer relevant or completed.
 
-## Getting Started
-
-1. **Clone Repository:**
-   ```
-   git clone https://github.com/your-username/todo-app.git
-   cd todo-app
-   ```
-
-2. **Install Dependencies:**
-   ```
-   npm install
-   ```
-
-3. **Run the Application:**
-   ```
-   npm start
-   ```
-
-4. **Access the Application:**
-   Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
 
 ## Usage
 
