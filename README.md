@@ -11,6 +11,16 @@ This is a simple To-Do application designed to help users manage their tasks eff
 - **Complete Tasks:** Mark tasks as completed to keep track of your progress.
 - **Delete Tasks:** Remove tasks that are no longer relevant or completed.
 
+## Getting Started
+
+1. **Clone Repository:**
+   ```
+   git clone https://github.com/aslammmohd/To_Do_Application.git
+   cd To_Do_Application
+   ```
+2. Install gradle depedencies.
+3. Run the application using by connection physical device or using Virtual Device.
+
 
 ## Usage
 
